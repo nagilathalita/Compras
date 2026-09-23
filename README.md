@@ -2,7 +2,7 @@
 
 Projeto desenvolvido durante o curso de **Back-end com Java**, no módulo de **Listas e Coleções**.
 
-A aplicação simula um sistema de compras, permitindo cadastrar produtos, armazená-los em uma lista e trabalhar com **ordenação e manipulação de coleções**.
+A aplicação simula um sistema de compras, permitindo adicionar produtos, armazená-los em uma lista e ir realizando compras de acordo com o limite do cartão e o saldo restante, trabalhando com **ordenação e manipulação de coleções**.
 
 ## 📚 Conteúdos praticados
 
